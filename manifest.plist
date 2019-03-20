@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.xiaoquexin.facai</string>
+                <string>com.peian66.com</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>小确信</string>
+                <string>配安</string>
             </dict>
         </dict>
     </array>
